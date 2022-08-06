@@ -1,0 +1,48 @@
+.container{
+    margin-bottom: 100px;
+}
+button{
+    background-image: linear-gradient(to bottom , #D95088 , #D41C5F);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+}
+.cat1, .cat2, .cat3{
+    padding: 80px 40px;
+} 
+.my-carousel{
+    background-color: #FBE7E7;
+}
+.meow1{
+    background-image: linear-gradient(135deg, #EBC938, #D59655 );
+    padding: 10px ;
+    border-radius: 10px;
+    color: white;
+}
+.meow2{
+    background-image: linear-gradient(135deg , #EE4A8D,#DE1A64 );
+    padding: 10px ;
+    border-radius: 10px;
+    color: white;
+
+}
+.meow3{
+    background-image: linear-gradient(135deg, #4A7AEF,#340CE1 );
+    padding: 10px ;
+    border-radius: 10px;
+    color: white;
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.last-container{
+    height: 300px;
+    background-color: #FBE7E7;
+}
